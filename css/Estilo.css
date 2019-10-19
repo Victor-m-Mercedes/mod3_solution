@@ -1,0 +1,14 @@
+.h3, p{
+    font-weight: bold !important;
+}
+ 
+.container {
+    margin-top: 8em;
+}
+.border {
+    margin-top: 2em;;
+    border: solid 1px !important;
+    padding: 10px !important;
+    background-color: gray;
+}
+
